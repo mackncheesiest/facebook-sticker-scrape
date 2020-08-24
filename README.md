@@ -1,4 +1,4 @@
-# Hacky Utilities for Scraping Stickers from Messenger
+## Hacky Utilities for Scraping Animated Stickers from Messenger
 
 * [js](js): hacky JS to get all the sticker URLs and open them for you to download
 * [python](python): hacky python to convert the sprite sheets to gifs with Pillow
